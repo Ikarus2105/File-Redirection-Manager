@@ -1,0 +1,6 @@
+{
+    "FileRedirections": [
+        "{\"name\": \"Test\", \"source\": \"C:/Source\", \"target\": \"C:/Target\", \"datatype\": \"pdf\"}",
+        "{\"name\": \"Test2\", \"source\": \"C:/Source2\", \"target\": \"C:/Target2\", \"datatype\": \"pdf2\"}"
+    ]
+}
